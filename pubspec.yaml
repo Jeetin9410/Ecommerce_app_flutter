@@ -72,7 +72,7 @@ flutter:
           weight: 300
 
   # LOCAL ASSETS
-  assets:
-    - assets/logos
-    - assets/icons/brands
-    - assets/images
+#  assets:
+#    - assets/logos
+#    - assets/icons/brands
+#    - assets/images
