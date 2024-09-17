@@ -8,8 +8,8 @@ import 'package:ecommerce_app/utils/theme/custom_themes/text_theme.dart';
 import 'package:ecommerce_app/utils/theme/custom_themes/textform_field_theme.dart';
 import 'package:flutter/material.dart';
 
-class TAppTheme {
-  TAppTheme._(); // making the constructor private so that it is not called again and again
+class JAppTheme {
+  JAppTheme._(); // making the constructor private so that it is not called again and again
 
   static ThemeData lightTheme = ThemeData(
     useMaterial3: true,
